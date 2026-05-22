@@ -101,7 +101,6 @@ The project includes:
 - Hamza Abu Zaken
 - Kumait
 
-
 ---
 
 ## 🔮 Future Work
